@@ -12,6 +12,6 @@ function verificarChute() {
     console.log(numeroSecreto);
 }
 
-function gerar  gerarNumeroAleatorio() {
+function gerarNumeroAleatorio() {
     return parseInt(Math.random() * 100 + 1);
 }
